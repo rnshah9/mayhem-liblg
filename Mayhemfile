@@ -1,5 +1,6 @@
 project: rnshah9/mayhem-liblg
-tests: file://bench/fibiter.lga
+tests:
+  - file://bench/fibiter.lga
 target: lgasm
 cmds:
   - cmd: /repo/build/lgasm @@
