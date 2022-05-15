@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-liblg
+target: playground
+
+cmds:
+  - cmd: /repo/build/lgasm @@
